@@ -55,12 +55,21 @@ body{
 
 .footer{
     height: 30vh;
-    background-color: white;
+    color: white;
+    background-color: black;
     margin-top: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.h4 {
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
 }
 
 .sosmed {
